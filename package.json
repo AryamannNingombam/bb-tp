@@ -11,7 +11,7 @@
     "start": "ts-node index.ts",
     "dev": "nodemon -x ts-node index.ts",
     "clean": "del ./dist/*",
-    "build": "npm run clean && tsc",
+    "build": "tsc",
     "deploy": "git add . && git commit -m 'f' && git push heroku master"
   },
   "author": "ary_amann",
