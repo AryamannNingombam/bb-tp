@@ -24,9 +24,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.10",
     "nodemailer": "^6.7.0",
-    "randomstring": "^1.2.1"
-  },
-  "devDependencies": {
+    "randomstring": "^1.2.1",
     "@types/bcryptjs": "^2.4.2",
     "@types/cors": "^2.8.12",
     "@types/dotenv": "^8.2.0",
